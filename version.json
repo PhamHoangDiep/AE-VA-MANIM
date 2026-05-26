@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "releases_url": "https://drive.google.com/drive/u/1/folders/1mQXmIWX_yTzZ_9fMwicwJfz3Gs5aF4BH",
+  "changelog": "- Khôi phục và tối ưu hóa kéo thả vẽ hộp TColorBox (TCB) trực tiếp.<br>- Đồng bộ hoàn hảo hoạt ảnh xuất hiện của cả khung viền và chữ tiêu đề TColorBox.<br>- Mặc định chất lượng kết xuất Manim là Thấp (-ql) trên Windows để render siêu nhanh."
+}
