@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "download_url": "https://drive.google.com/file/d/1909Hmxxfmt2jxt3EdsNKg2IhTfkwvdjc/view?usp=sharing",
-  "releases_url": "https://drive.google.com/file/d/1909Hmxxfmt2jxt3EdsNKg2IhTfkwvdjc/view?usp=sharing",
-  "changelog": "- Cập nhật phiên bản 1.8.0: Nâng cấp hệ thống, tối ưu hóa hiệu năng và cải tiến một số tính năng vẽ đồ họa."
+  "version": "1.9.0",
+  "download_url": "https://drive.google.com/file/d/1T9nkoFyQe5xLbe_P2jRNJAaA5yHbUMsG/view?usp=sharing",
+  "releases_url": "https://drive.google.com/file/d/1T9nkoFyQe5xLbe_P2jRNJAaA5yHbUMsG/view?usp=sharing",
+  "changelog": "- Cập nhật phiên bản 1.9.0: Sửa lỗi không mở được dialog chọn/xóa đối tượng trong Clear Scene. Nút 'Chọn đối tượng/animation cần xóa' hoạt động đúng khi chọn lại ManimClear. Cải thiện logic hiển thị số đối tượng bị xóa/giữ lại."
 }
